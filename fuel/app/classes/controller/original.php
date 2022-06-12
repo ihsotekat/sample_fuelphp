@@ -112,6 +112,8 @@ class Controller_Original extends Controller
 				echo $line[9].',';
 				echo $line[10];
 
+				//コミット練習
+
 				// foreach ($data as $line) {
 				// 	$lines = explode(',',$line);
 				// 	echo '<p>';
